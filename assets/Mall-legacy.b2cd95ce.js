@@ -1,0 +1,1 @@
+System.register(["./index-legacy.7b500206.js"],(function(t,n){"use strict";var e;return{setters:[function(t){e=t.n}],execute:function(){t("default",e({data:function(){return{}}},(function(){return(0,this._self._c)("h1",[this._v("我是mall")])}),[],!1,null,null,null,null).exports)}}}));

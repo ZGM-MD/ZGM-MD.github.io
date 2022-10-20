@@ -1,0 +1,1 @@
+System.register(["./index-legacy.7b500206.js"],(function(n,t){"use strict";var e;return{setters:[function(n){e=n.n}],execute:function(){n("default",e({data:function(){return{}}},(function(){return(0,this._self._c)("h1",[this._v("我是pageone")])}),[],!1,null,null,null,null).exports)}}}));
